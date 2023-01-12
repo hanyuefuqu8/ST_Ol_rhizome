@@ -1,0 +1,14 @@
+SS200000130TR_B3	R-2	5	F	T	T	T	upper02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/130TR_B3upper02.gem
+SS200000130TR_B3	R-2	5	F	T	T	T	down01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/130TR_B3down01.gem
+FP200000597TL_E1	R-2	5	F	T	T	T	down02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/zhongliyuan/zhongliyuan/Olongi/gem/597TL_E1down02.gem
+SS200000130TR_C6	R-2	5	F	T	T	T	upper01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/130TR_C6upper01.gem
+SS200000130TR_A2	R-1		F	F	F	T	upper01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/130TR_A2upper01.gem
+SS200000130TR_A2	R-1		F	F	F	T	upper02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/130TR_A2upper02.gem
+SS200000330TR_B6	R-2	5	F	F	F	T	upper01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/330TR_B6upper01.gem
+SS200000330TR_B6	R-2	5	F	F	F	T	lower01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/330TR_B6down01.gem
+SS200000330TR_B6	R-2	5	F	F	F	T	lower02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/lasso/330TR_B6down02.gem
+SS200000349TR_F3	T		F	F	T	T	upper01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/Tiller_lasso/349TR_F3upper01.gem
+SS200000349TR_F3	T		F	F	T	T	down01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/Tiller_lasso/349TR_F3down01.gem
+SS200000349TR_F3	T		F	F	T	T	down02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/Tiller_lasso/349TR_F3down02.gem
+SS200000199BR_B1	T		F	T	T	T	upper01	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/Tiller_lasso/199BR_B1upper01.gem
+SS200000199BR_B1	T		F	T	T	T	upper02	/hwfssz1/ST_EARTH/P20Z10200N0035/USER/yangfeng/baiyixuan/Tiller_lasso/199BR_B1upper02.gem
